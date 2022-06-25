@@ -806,6 +806,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Fin
 ├ Penyedia Module
 ╰❒ And All Support
     `
